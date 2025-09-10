@@ -12,12 +12,12 @@ This is a personal portfolio website showcasing my projects, skills, and experie
 
 ## Technologies Used
 
-*   **React:** A JavaScript library for building user interfaces.
-*   **TypeScript:** A typed superset of JavaScript that compiles to plain JavaScript.
-*   **Vite:** A fast build tool that provides a lightning-fast development experience.
-*   **HTML5 & CSS3:** Standard web technologies for structuring and styling content.
-*   **Git:** Version control system.
-*   **GitHub:** Platform for hosting and collaborating on code.
+*   **React:** <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> A JavaScript library for building user interfaces.
+*   **TypeScript:** <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> A typed superset of JavaScript that compiles to plain JavaScript.
+*   **Vite:** <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> A fast build tool that provides a lightning-fast development experience.
+*   **HTML5 & CSS3:** <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> Standard web technologies for structuring and styling content.
+*   **Git:** <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> Version control system.
+*   **GitHub:** <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> Platform for hosting and collaborating on code.
 
 ## Setup
 
