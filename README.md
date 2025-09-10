@@ -89,4 +89,4 @@ Untuk setiap pertanyaan atau umpan balik, silakan hubungi.
 
 ---
 
-&copy; 2025 [Nama Anda/Nama Organisasi]
+&copy; 2025 by Wily Filosa Alviano Silaen. All Rights Reserved
