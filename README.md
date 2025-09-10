@@ -1,92 +1,92 @@
-# Portfolio Beta
+# Portofolio Beta
 
-This is a personal portfolio website showcasing my projects, skills, and experience. It's built with modern web technologies to provide a smooth and interactive user experience.
+Ini adalah situs web portofolio pribadi yang memamerkan proyek, keahlian, dan pengalaman saya. Situs ini dibangun dengan teknologi web modern untuk memberikan pengalaman pengguna yang lancar dan interaktif.
 
-## Features
+## Fitur
 
-*   **Interactive Hero Section:** Engaging introduction to the portfolio.
-*   **Dynamic Project Showcase:** Displays various projects with descriptions and links.
-*   **Skills Section:** Highlights technical skills and proficiencies.
-*   **Responsive Design:** Optimized for various screen sizes and devices.
-*   **Smooth Animations:** Enhances user experience with subtle scroll animations.
+*   **Bagian Hero Interaktif:** Pengenalan portofolio yang menarik.
+*   **Pameran Proyek Dinamis:** Menampilkan berbagai proyek beserta deskripsi dan tautan.
+*   **Bagian Keahlian:** Menyoroti keahlian dan kemahiran teknis.
+*   **Desain Responsif:** Dioptimalkan untuk berbagai ukuran layar dan perangkat.
+*   **Animasi Halus:** Meningkatkan pengalaman pengguna dengan animasi gulir yang halus.
 
-## Technologies Used
+## Teknologi yang Digunakan
 
-*   **React:** <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> A JavaScript library for building user interfaces.
-*   **TypeScript:** <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> A typed superset of JavaScript that compiles to plain JavaScript.
-*   **Vite:** <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> A fast build tool that provides a lightning-fast development experience.
-*   **HTML5 & CSS3:** <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> Standard web technologies for structuring and styling content.
-*   **Git:** <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> Version control system.
-*   **GitHub:** <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> Platform for hosting and collaborating on code.
+*   **React:** <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> Pustaka JavaScript untuk membangun antarmuka pengguna.
+*   **TypeScript:** <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> Superset JavaScript yang diketik dan dikompilasi menjadi JavaScript biasa.
+*   **Vite:** <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> Alat pengembangan cepat yang memberikan pengalaman pengembangan secepat kilat.
+*   **HTML5 & CSS3:** <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> Teknologi web standar untuk menyusun dan menata konten.
+*   **Git:** <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> Sistem kendali versi.
+*   **GitHub:** <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> Platform untuk hosting dan kolaborasi kode.
 
-## Setup
+## Pengaturan
 
-To get a local copy up and running, follow these simple steps.
+Untuk menjalankan salinan lokal, ikuti langkah-langkah sederhana ini.
 
-### Prerequisites
+### Prasyarat
 
-*   Node.js (LTS version recommended)
-*   npm (Node Package Manager) or yarn
+*   Node.js (versi LTS direkomendasikan)
+*   npm (Node Package Manager) atau yarn
 
-### Installation
+### Instalasi
 
-1.  **Clone the repository:**
+1.  **Klon repositori:**
     ```bash
     git clone https://github.com/suzuy1/portofolio-beta.git
     ```
-2.  **Navigate into the project directory:**
+2.  **Navigasi ke direktori proyek:**
     ```bash
     cd portfolio-beta
     ```
-3.  **Install dependencies:**
+3.  **Instal dependensi:**
     ```bash
     npm install
-    # or
+    # atau
     yarn install
     ```
 
-## Running the Application
+## Menjalankan Aplikasi
 
-To start the development server:
+Untuk memulai server pengembangan:
 
 ```bash
 npm run dev
-# or
+# atau
 yarn dev
 ```
 
-The application will typically run on `http://localhost:5173` (or another available port).
+Aplikasi biasanya akan berjalan di `http://localhost:5173` (atau port lain yang tersedia).
 
-## Project Structure
+## Struktur Proyek
 
-*   `public/`: Static assets like images and `favicon.ico`.
-*   `src/`: Main application source code.
-    *   `components/`: Reusable React components (e.g., `Hero.tsx`, `Projects.tsx`, `Skills.tsx`).
-    *   `data/`: Data files for projects and skills (e.g., `projects.ts`, `skills.ts`).
-    *   `App.tsx`: Main application component.
-    *   `index.tsx`: Entry point of the React application.
-*   `index.html`: Main HTML file.
-*   `vite.config.ts`: Vite configuration.
-*   `tsconfig.json`: TypeScript configuration.
-*   `package.json`: Project metadata and dependencies.
+*   `public/`: Aset statis seperti gambar dan `favicon.ico`.
+*   `src/`: Kode sumber aplikasi utama.
+    *   `components/`: Komponen React yang dapat digunakan kembali (misalnya, `Hero.tsx`, `Projects.tsx`, `Skills.tsx`).
+    *   `data/`: Berkas data untuk proyek dan keterampilan (misalnya, `projects.ts`, `skills.ts`).
+    *   `App.tsx`: Komponen aplikasi utama.
+    *   `index.tsx`: Titik masuk aplikasi React.
+*   `index.html`: Berkas HTML utama.
+*   `vite.config.ts`: Konfigurasi Vite.
+*   `tsconfig.json`: Konfigurasi TypeScript.
+*   `package.json`: Metadata dan dependensi proyek.
 
 ## Deployment
 
-This project can be deployed to various static site hosting services like Vercel, Netlify, GitHub Pages, etc.
+Proyek ini dapat di-deploy ke berbagai layanan hosting situs statis seperti Vercel, Netlify, GitHub Pages, dll.
 
-1.  **Build the project:**
+1.  **Bangun proyek:**
     ```bash
     npm run build
-    # or
+    # atau
     yarn build
     ```
-    This will create a `dist` folder with the production-ready build.
-2.  **Deploy the `dist` folder** to your preferred hosting service.
+    Ini akan membuat folder `dist` dengan build yang siap produksi.
+2.  **Deploy folder `dist`** ke layanan hosting pilihan Anda.
 
-## Contact
+## Kontak
 
-For any inquiries or feedback, please reach out.
+Untuk setiap pertanyaan atau umpan balik, silakan hubungi.
 
 ---
 
-&copy; 2025 [Your Name/Organization Name]
+&copy; 2025 [Nama Anda/Nama Organisasi]
