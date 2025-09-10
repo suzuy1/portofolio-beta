@@ -82,10 +82,4 @@ yarn build
 Ini akan membuat folder `dist` dengan build yang siap produksi.
 2. **Deploy folder `dist`** ke layanan hosting pilihan Anda.
 
-## Kontak
 
-Untuk pertanyaan atau masukan apa pun, silakan hubungi kami.
-
----
-
-&copy; 2025 [Nama Anda/Nama Organisasi]
