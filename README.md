@@ -12,9 +12,9 @@ Ini adalah situs web portofolio pribadi yang memamerkan proyek, keahlian, dan pe
 
 ## Teknologi yang Digunakan
 
-*   **React:** <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> Sebuah pustaka JavaScript untuk membangun antarmuka pengguna.
+*   **React:** <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> Pustaka JavaScript untuk membangun antarmuka pengguna.
 *   **TypeScript:** <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> Superset JavaScript yang diketik yang dikompilasi menjadi JavaScript biasa.
-*   **Vite:** <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> Alat pembangunan cepat yang menyediakan pengalaman pengembangan yang sangat cepat.
+*   **Vite:** <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> Alat pembangunan cepat yang memberikan pengalaman pengembangan kilat.
 *   **HTML5 & CSS3:** <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> Teknologi web standar untuk menyusun dan menata konten.
 *   **Git:** <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> Sistem kontrol versi.
 *   **GitHub:** <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> Platform untuk menghosting dan berkolaborasi pada kode.
